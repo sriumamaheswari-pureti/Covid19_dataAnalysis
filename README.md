@@ -1,5 +1,5 @@
 
-
+📌 Project Title
 **COVID-19 Data Analysis using Python (Pandas, Seaborn, Matplotlib)**
 
 ## 📖 Project Overview
@@ -19,44 +19,6 @@ This project analyzes a COVID-19 dataset to examine confirmed, death, and recove
 * 🔎 Filtering Records
 * 🔃 Sorting Data
 * 🌍 Region-wise Analysis
-
----
-
-## 🛠️ Technologies Used
-
-### 🔹 Python Libraries
-
-#### 1. Pandas
-
-```python
-import pandas as pd
-```
-
-* `pd.read_csv()` → Load dataset
-* `df.count()` → Count non-null values
-* `df.isnull().sum()` → Detect missing values
-* `df.groupby()` → Group data
-* `df.sort_values()` → Sort data
-
----
-
-#### 2. Seaborn
-
-```python
-import seaborn as sns
-```
-
-* `sns.heatmap()` → Visualize missing values
-
----
-
-#### 3. Matplotlib
-
-```python
-import matplotlib.pyplot as plt
-```
-
-* `plt.show()` → Display plots
 
 ---
 
@@ -126,6 +88,43 @@ df.sort_values(by='Recovered', ascending=False)
 
 ---
 
+## 🛠️ Technologies Used
+
+### 🔹 Python Libraries
+
+#### 1. Pandas
+
+```python
+import pandas as pd
+```
+
+* `pd.read_csv()` → Load dataset
+* `df.count()` → Count non-null values
+* `df.isnull().sum()` → Detect missing values
+* `df.groupby()` → Group data
+* `df.sort_values()` → Sort data
+
+---
+
+#### 2. Seaborn
+
+```python
+import seaborn as sns
+```
+
+* `sns.heatmap()` → Visualize missing values
+
+---
+
+#### 3. Matplotlib
+
+```python
+import matplotlib.pyplot as plt
+```
+
+* `plt.show()` → Display plots
+
+---
 ## 📚 Key Learnings
 
 * Data cleaning and preprocessing
