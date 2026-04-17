@@ -152,5 +152,5 @@ This project demonstrates how Python tools can be used to analyze real-world dat
 ## 👩‍💻 Author
 
 **Pureti Sri Uma Maheswari**
-**Aspiring Data Analyst**
+(**Aspiring Data Analyst**)
 
